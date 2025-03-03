@@ -1,5 +1,5 @@
 # Workshop
-For stese
+For teset
 Dette er mit krav til programmet
 1. Det skal lave data visualiseringer
 2. Det skal være flot
